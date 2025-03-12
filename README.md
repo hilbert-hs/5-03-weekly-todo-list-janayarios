@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=18581822)
 # 5.03-Weekly-ToDo-List
 
 In this lab your job is to create a week-long to-do list using a Python dictionary. Each key in the dictionary is a day of the week. Each associated value is a list of items to do that day.
